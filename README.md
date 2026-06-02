@@ -1,2 +1,49 @@
-# nfpa-certification-questions
-Free Nfpa practice questions 2026 — 61 questions across 1 exams | certbase.pro
+# Nfpa Certification Questions — Free Practice Tests 2026
+
+> **61 free practice questions** across **1 Nfpa certification exams**.
+> No account required. Study online at [certbase.pro](https://certbase.pro/nfpa).
+
+IT certification practice questions for Nfpa exams.
+
+---
+
+## Available Exams (2026)
+
+| Certification | Level | Questions | Link |
+|---|---|:---:|---|
+| [Certified Fire Protection Specialist (CFPS)](https://certbase.pro/nfpa/cfps) | 🟠 Professional | 61 | [Practice free →](https://certbase.pro/nfpa/cfps) |
+
+> **Total: 61 questions** — updated regularly to reflect the latest 2026 exam versions.
+
+---
+
+## About CertBase
+
+**[CertBase.pro](https://certbase.pro)** is a free platform for IT certification practice.
+Questions are sourced from real exam discussions and reviewed by the community.
+
+### Why use CertBase?
+
+- **Free** — no subscription, no paywall, no credit card
+- **2026 ready** — questions updated for the latest exam versions
+- **Community answers** — see what the community voted as the correct answer
+- **Progress tracking** — track answered questions with a free account
+- **Study mode & quiz mode** — study with instant feedback or simulate the real exam
+- **Mobile friendly** — practice anywhere, on any device
+
+### Browse all Nfpa certifications
+
+👉 **[certbase.pro/nfpa](https://certbase.pro/nfpa)**
+
+---
+
+## IT Certification Certifications on CertBase
+
+CertBase covers **IT Certification** and many other IT domains. Browse all providers:
+
+👉 **[certbase.pro](https://certbase.pro)**
+
+---
+
+*This repository is maintained by the [CertBase](https://certbase.pro) team.
+Last updated: June 2026.*
